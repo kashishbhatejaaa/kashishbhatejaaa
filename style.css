@@ -22,8 +22,7 @@ h1 {
 button {
     display: inline-block;
     text-align: center;
-    width: 100%;
-    padding:  15px 10px;
+    padding:  8px 20px;
     margin: 10px;
     border-radius: 5px;
     background-color: #007bff;
@@ -36,5 +35,6 @@ button:hover {
 }
 
 #story-container {
-    margin-bottom: 20px opx;
+    margin: 20px 0px;
+    color:#fff;
 }
